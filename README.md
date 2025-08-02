@@ -1,62 +1,67 @@
 #JOSEH-portfolio
 
-# 💼 Joseph Njoroge – Portfolio
+# 💻 Joseph Njoroge – Software Engineer & Solution-Giver
 
-Welcome to my portfolio! I'm a detail-oriented and reliable **Data Entry Assistant** with a passion for clean, organized data and efficient workflows. This portfolio showcases my skills, experience, and the projects I’ve contributed to.
+Welcome to my personal portfolio website, where I showcase my skills, projects, and passion for software engineering.  
+Feel free to explore and get in touch!
+
+📄 [Download My CV (PDF)](Joseph_Njoroge_Resume.pdf)
 
 ---
 
-## 📌 About Me
+## 🧑‍💼 About Me
 
-- 🌍 Based in Nakuru, Kenya  
-- 💻 Skilled in Microsoft Excel, Google Sheets, and basic reporting  
-- 🔐 Strong focus on data integrity and confidentiality  
-- 🕒 Excellent time management and communication skills  
-- 📈 Open to remote or in-office roles in data entry and administrative support
+I'm a passionate software engineer who thrives on turning ideas into powerful, user-friendly digital experiences.  
+With a strong foundation in programming and problem-solving, I love building applications that solve real-world challenges and create value for people.
+
+What drives me is the joy of creating something useful – something that someone, somewhere, will interact with and think, *"Wow, that made my life a bit easier."*  
+I'm constantly learning, improving, and challenging myself to write cleaner, smarter, and more meaningful code.
+
+While I'm comfortable across the stack, I especially enjoy bridging the gap between design and logic – making sure what we build isn't just functional, but also intuitive and pleasant to use.
+
+When I'm not coding, you'll find me exploring new technologies, reading about software trends, or engaging with the tech community.  
+I'm always looking for opportunities to collaborate and grow with others.
 
 ---
 
 ## 🛠️ Skills
 
-- ✅ Data Entry & Management  
-- ✅ Microsoft Excel & Google Sheets  
-- ✅ Accuracy & Attention to Detail  
-- ✅ Basic Report Generation  
-- ✅ Confidentiality & Data Protection  
-- ✅ Time Management  
-- ✅ Typing Speed: 50+ WPM
+- Responsive Web Applications  
+- AI Applications  
+- Electrical Engineering  
+- HTML and CSS  
+- Communication and Negotiation
 
 ---
 
-## 🧠 Projects / Experience
+## 🚀 Projects
 
-**Freelance Data Entry Assistant (May 2024 – Sept 2024)**  
-- Entered and cleaned data for client databases  
-- Generated summaries and reports  
-- Proposed workflow improvements to reduce time waste  
-- Used Google Sheets for collaboration and version tracking
-
-*More projects coming soon...*
+### 🌐 Portfolio Website  
+A personal portfolio site built with HTML and CSS only.  
+[🔗 View Project](#) <!-- replace # with your project link -->
 
 ---
 
-## 📎 Education
+## 🎯 Hobbies
 
-**Nairobi Road Secondary School**  
-GED Certificate (High School Equivalency) – Completed in 2023
-
----
-
-## 🔗 Contact & Links
-
-- 📧 Email: jos3phnjoroge16@gmail.com  
-- 🔗 LinkedIn: [joseph-njoroge](https://www.linkedin.com/in/joseph-njoroge-767153377/)  
-- 💻 GitHub: [Josephbrown92](https://github.com/Josephbrown92)  
+- Researching design improvements  
+- Exploring emerging trends in technology  
+- Reading about Finance and Sales  
+- Socializing with tech gurus and peers
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Contact Me
 
-I'm always open to collaborations, new opportunities, or freelance gigs. Feel free to reach out!
+Feel free to reach out to me for collaboration or questions.  
+✉️ jos3phnjoroge16@gmail.com
+
+---
+
+## 📞 My Contact
+
+© 2023 Joseph Njoroge. All rights reserved.  
+Designed and developed by **Joseph Njoroge**
+
 
 
