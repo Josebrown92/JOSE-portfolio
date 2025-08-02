@@ -1,0 +1,183 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f3ff;   /* Soft lavender */
+  color: #2d2d2d;              /* Trustworthy dark gray */
+  line-height: 1.6;
+ 
+
+}
+/* Make the header a horizontal flex container */
+header {
+  display: flex;
+  justify-content: space-between; /* Push text left, image right */
+  align-items: center;            /* Vertically align items */
+  padding: 40px;
+  background: linear-gradient(to right, #1e3a8a, #6b21a8); /* Trust + Royalty */
+  color: white;
+}
+
+/* Style the text container */
+header .intro-text {
+  max-width: 60%;      /* Keep text from going too wide */
+  text-align: left;    /* Align text to the left */
+}
+
+/* Style the image */
+header img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px; /* Slight rounding for a clean look */
+}
+/* Navigation */
+#navigation nav {
+  background-color: #ede9fe;
+  text-align: center;
+  padding: 15px 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+
+#navigation nav a {
+  text-decoration: none;
+  color: #1e3a8a;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 5px 10px;
+  transition: color 0.3s ease;
+}
+
+#navigation nav a:hover {
+  color: #6b21a8;
+}
+
+
+section#navigation nav a:hover {
+  color: #6b21a8;                /* Royal purple on hover */
+}
+main {
+
+}
+
+
+/* About  me Section */
+main#section#about {
+  background-color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+main#section#about h2 {
+  font-size: 2rem;
+  color: #6b21a8;  /* Royal Purple */
+  margin-bottom: 20px;
+  text-decoration: underline; /* Underline for emphasis */
+  text-align: center;
+}
+
+section#about p {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Projects Section */
+section#projects {
+  background-color: #ede9fe;  /* Soft purple-blue background */
+  padding: 40px 20px;
+  text-align: center;
+}
+
+section#projects h2 {
+  font-size: 2rem;
+  color: #1e3a8a; /* Deep Blue */
+  margin-bottom: 20px;
+  text-align: center;
+  text-decoration: underline; /* Underline for emphasis */
+}
+
+section#projects article {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: left;
+  border-left: 5px solid #d4af37;  /* Gold accent */
+}
+ol {
+  list-style-type: decimal;
+  padding-left: 40px;
+ 
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 40px;
+}
+
+
+/* Contact Section */
+section#contact {
+  background-color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+section#contact h2 {
+  font-size: 2rem;
+  color: #6b21a8;
+  margin-bottom: 20px;
+  text-decoration: underline; /* Underline for emphasis */
+  text-align: right;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+form button {
+  background-color: #d4af37;  /* Dedication gold */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background-color: #b88e2f;
+}
+
+/* Footer */
+footer {
+  background-color: #1e3a8a; /* Deep trust blue */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
